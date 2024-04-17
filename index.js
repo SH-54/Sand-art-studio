@@ -1,1 +1,1 @@
-alert("このページはとても安全です！");
+alert("Welcome to our studio 欢迎光临");
